@@ -27,7 +27,7 @@ button {
 }
 
 .navbar-light .navbar-nav .nav-link {
-	color: #292b2c;
+	color:brown;
 	font-weight: 600;
 	text-transform: uppercase;
 
@@ -64,10 +64,14 @@ button {
 }
 
 /* Jumbotron */
-.jumbotron {
+.jumbotron {color:white;
 	border-radius: 0;
+	background-image:url(https://www.orbea.com/img/home/large/2000x1100_la_bici_invade_las_ciudades.jpg);
+background-size:cover;
 }
-
+#topbutton{background-color:orange;
+border:none;
+color:white;}
 /* Headings */
 .heading-underline {
 	position: relative;
