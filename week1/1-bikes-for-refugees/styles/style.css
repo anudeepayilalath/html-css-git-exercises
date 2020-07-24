@@ -66,7 +66,7 @@ button {
 /* Jumbotron */
 .jumbotron {color:white;
 	border-radius: 0;
-	background-image:url(https://www.orbea.com/img/home/large/2000x1100_la_bici_invade_las_ciudades.jpg);
+	background-image:url(https://github.com/anudeepayilalath/html-css-git-exercises/blob/master/week1/1-bikes-for-refugees/images/header-bike.jpg?raw=true);
 background-size:cover;
 }
 #topbutton{background-color:chocolate;
@@ -97,6 +97,7 @@ color:white;}
 /* Article */
 .article {
 	margin-bottom: 2em;
+	display:flex;
 }
 
 .article__title {
@@ -148,7 +149,8 @@ color:white;}
 	margin:15px;
 width:300px;
 	  height:250px;
-	float:left;
+
+float:left;
 }
 	
 	
@@ -160,9 +162,8 @@ border:none;
 }
 .maincontent{color:black;
 }
-.img-fluid{width:50px
-	height:50px;
-	float:left; }
 
-#firstdivis{float:left;}
-	   
+.img-fluid{
+	width:130px;
+height:60px;}
+.maincontent{color:white;}
