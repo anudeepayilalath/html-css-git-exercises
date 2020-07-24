@@ -69,7 +69,7 @@ button {
 	background-image:url(https://www.orbea.com/img/home/large/2000x1100_la_bici_invade_las_ciudades.jpg);
 background-size:cover;
 }
-#topbutton{background-color:orange;
+#topbutton{background-color:chocolate;
 border:none;
 color:white;}
 /* Headings */
@@ -153,4 +153,10 @@ width:300px;
 	.img-fluid{
 		width:40px;
 	}
+	#button2{background-color:chocolate;
+	color:white;
+border:none;
+}
+#button3{border:none;}
+
 	   
